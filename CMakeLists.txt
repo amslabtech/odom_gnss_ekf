@@ -13,7 +13,6 @@ find_package(catkin REQUIRED COMPONENTS
   rospy
   std_msgs
   tf
-  nmea_msgs
   message_filters
   cmake_modules
   amsl_navigation_msgs
