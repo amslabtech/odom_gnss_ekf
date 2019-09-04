@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<launch>
+
+    <test pkg="odom_gnss_ekf" type="odom_gnss_ekf_test" test-name="odom_gnss_ekf_test">
+    </test>
+
+</launch>
